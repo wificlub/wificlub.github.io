@@ -15,7 +15,7 @@ Just simple theme for your jekyll blog, based on default Jekyll theme.
 ### [View Demo](http://rmsubekti.github.io/nangka)
 
 ### Run this theme on your local machine
-To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), and use **master** branch instead, then run this command.
+To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
 
 ```
 git clone git@github.com:rmsubekti/nangka.git
