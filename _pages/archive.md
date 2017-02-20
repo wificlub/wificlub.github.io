@@ -2,7 +2,7 @@
 layout: default
 title: Archive
 scripts: [search.js]
-permalink: /archive
+permalink: /archive/
 ---
 <div class="archive-header">
     <h2>Archives</h2>
