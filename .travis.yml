@@ -24,7 +24,7 @@ after_success:
 # branch whitelist, only for GitHub Pages
 branches:
   only:
-  - test    # test the gh-pages branch
+  - master    # test the gh-pages branch
 
 env:
   global:
