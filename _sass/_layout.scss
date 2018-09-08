@@ -10,12 +10,48 @@
     width: 0;
     height: 0;
 }
-.site-nav {
+.site-header{
     position: relative;
-    top:-1.3rem;
+}
+h1 ~ .site-nav{
+    top: 3px;
+}
+h3 ~ .site-nav{
+    top: 0;
+}
+.site-nav{
+    position: absolute;
     text-align: right;
+    right: 0;
+    padding: 5px 10px;
+    background-color: #ebeef2;
+    @include media-query($on-palm) {
+        background: none;
+        padding: 0
+    }
+    border-radius: 2px;
     a{
         padding: 0 .41rem;
+    }
+    label{
+        @include media-query($on-palm) {
+            display: none;
+        }
+    }
+}
+.nav-links{
+    display: none;
+    @include media-query($on-palm) {
+        display: block;
+    }
+}
+#nav-trigger{
+    &:checked ~ .nav-links{
+    display: block;
+        a{
+            display: block;
+            padding: 0
+        }
     }
 }
 .site-title{
