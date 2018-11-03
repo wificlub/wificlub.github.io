@@ -19,7 +19,6 @@ gems:
   - jekyll-mentions
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-feed
   - jemoji
 
