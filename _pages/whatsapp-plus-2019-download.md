@@ -4,35 +4,35 @@ title: WhatsApp Plus 2019 APK Download Latest Version
 permalink: /whatsapp-plus-2019-download/
 ---
 
-<table class="width=&quot;100%&quot;" style="margin-bottom: 7px;">
+<table class="width=%100;" style="margin-bottom: 7px;">
 <tbody>
 <tr>
-<td width="308">Adı</td>
-<td width="308">YoWhatsApp Apk İndir</td>
+<td width="308">Name</td>
+<td width="308">WhatsApp Plus APK</td>
 </tr>
 <tr>
-<td width="308">Son Sürüm</td>
-<td width="308">7.70</td>
+<td width="308">Latest Version</td>
+<td width="308">6.81</td>
 </tr>
 <tr>
-<td width="308">Son Güncelleme</td>
-<td width="308">1 Kasım 2018</td>
+<td width="308">Updated On</td>
+<td width="308">January 2019</td>
 </tr>
 <tr>
-<td width="308">Boyut</td>
+<td width="308">Size</td>
 <td width="308">44 MB</td>
 </tr>
 <tr>
-<td width="308">Toplam İndirilme</td>
-<td width="308">1.000.000+</td>
+<td width="308">Total Downloads</td>
+<td width="308">6.000.000+</td>
 </tr>
 <tr>
-<td width="308">Gereksinim</td>
+<td width="308">Requirement</td>
 <td width="308">Android 2.3+</td>
 </tr>
 <tr>
-<td width="308">Dil</td>
-<td width="308">Türkçe, Azerice (tüm diller)</td>
+<td width="308">Language</td>
+<td width="308">All Languages</td>
 </tr>
 </tbody>
 </table>
