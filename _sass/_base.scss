@@ -8,7 +8,22 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+#buton-one{
+    background-image:url(buton.png);
+    background-position:0px 0px;
+    width:250px;
+    height:37px;
+    padding-top:14px;
+}
+#buton-one:hover{
+    background-position:-250px 0px;
+}
+#buton-one a{
+    font-size:17px;
+    font-family:Myriad Pro;
+    text-decoration:none;
+    color:#fff;
+}
 
 /**
  * Basic styling
