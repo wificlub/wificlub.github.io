@@ -74,17 +74,6 @@ The application `WhatsApp Plus 2019 APK` is available for download on completely
 
 The program is downloaded in seconds; it is also installed without any problems and will not cause questions even for beginners. But it is worth noting that difficulties arise when the device models of you and your interlocutors are incompatible. You need to find a general version of the application and install it on your devices. After full installation, the application is launched and a special Plus button is selected in the menu.
 <h3><a name="wptp">GB Whatsapp Plus Transparent</a></h3>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Esneking -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4659442398"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 <center>
 <table class="width=%100;" style="margin-bottom: 7px;">
 <tbody>
@@ -118,15 +107,15 @@ The program is downloaded in seconds; it is also installed without any problems 
 </tr>
 </tbody>
 </table>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 336 -->
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 2018 -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:336px;height:280px"
+     style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="9585734309"></ins>
+     data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script><br>
+</script></center>
 <a href="https://dl.dropboxusercontent.com/s/34zco7gi4le7exj/GBWA%20Transparent%20v6.60%20By%20Sam.apk?dl=0" target="_blank" rel="nofollow">.APK Download</a>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
