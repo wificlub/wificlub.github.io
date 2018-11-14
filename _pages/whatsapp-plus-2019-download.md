@@ -138,5 +138,5 @@ The program is downloaded in seconds; it is also installed without any problems 
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
 </center>
-<img src="https://wpplus2019.com/gb-transparent.jpg" width="512" height="512" alt="gb wp 2019" title="gb 2019" />
+<img src="https://wpplus2019.com/gb-transparent.jpg" width="512" height="512" alt="gb wp 2019" title="gb 2019" /><br>
 We also shared the Transparent mode of WhatsApp Plus. This mode was released as of November 14, 2018. Many new features and brand new themes with this mode we have shared with you. If you like our site you can share it with your friends via share buttons below.
