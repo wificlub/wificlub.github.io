@@ -56,7 +56,9 @@ permalink: /whatsapp-plus-2019-download/
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-<a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_armeabi-v7a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download (32MB)</a>
+armeabi-v7a: <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_armeabi-v7a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download (26MB)</a><br>
+arm64-V8A: <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_arm64-v8a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download (32MB)</a><br>
+x86_64: <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_x86_64@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download (32MB)</a>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
@@ -66,6 +68,7 @@ permalink: /whatsapp-plus-2019-download/
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
+     <span style="color:red">Download according to your device hardware model.</span>
 </center>
 <h2>WhatsApp Plus 2019 Download</h2>
 The application `WhatsApp Plus 2019 APK` is available for download on completely different Internet resources and is free to use. To do this, you need to turn to the browser and go to the wpplus2019.com - It is worth remembering that for downloading you need to reliably know the resource so that it inspires and deserves confidence. Otherwise, instead of the cherished program WhatsApp, those who downloaded the link may receive various malicious software that occupy your smartphone or tablet, which in the future will cause many problems in order to eradicate it. The link to the program must be from a reliable source. Before you install `WhatsApp Plus 2019`, you need to make a backup of your contact information. This precaution is required in order so that in case of an incorrect installation it was possible to restore all the data or make a reinstallation.
