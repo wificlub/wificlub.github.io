@@ -73,7 +73,7 @@ The application `WhatsApp Plus 2019 APK` is available for download on completely
 <img src="https://wpplus2019.com/whatsapp-plus-changelog.jpg" alt="whatsapp plus 2019" title="whatsapp plus" /><br />
 
 The program is downloaded in seconds; it is also installed without any problems and will not cause questions even for beginners. But it is worth noting that difficulties arise when the device models of you and your interlocutors are incompatible. You need to find a general version of the application and install it on your devices. After full installation, the application is launched and a special Plus button is selected in the menu.
-<h3><a name="wptp">GB Whatsapp Plus Transparent</a></h3>
+<h3><a name="wptp">Whatsapp Plus Themes</a></h3>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ResponsLink -->
 <ins class="adsbygoogle"
@@ -90,15 +90,11 @@ The program is downloaded in seconds; it is also installed without any problems 
 <tbody>
 <tr>
 <td width="308">Name</td>
-<td width="308">GB WhatsApp Plus Transparent</td>
-</tr>
-<tr>
-<td width="308">Latest Version</td>
-<td width="308">6.60</td>
+<td width="308">WhatsApp Plus Themes</td>
 </tr>
 <tr>
 <td width="308">Updated On</td>
-<td width="308">November 14, 2018</td>
+<td width="308">November 19, 2018</td>
 </tr>
 <tr>
 <td width="308">Size</td>
@@ -106,7 +102,7 @@ The program is downloaded in seconds; it is also installed without any problems 
 </tr>
 <tr>
 <td width="308">Type</td>
-<td width="308">Transparent MOD</td>
+<td width="308">Themes MOD</td>
 </tr>
 <tr>
 <td width="308">Join Telegram Channel</td>
@@ -127,7 +123,8 @@ The program is downloaded in seconds; it is also installed without any problems 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-<a href="https://dl.dropboxusercontent.com/s/34zco7gi4le7exj/GBWA%20Transparent%20v6.60%20By%20Sam.apk?dl=0" target="_blank" rel="nofollow">.APK Download</a>
+GB WhatsApp Transparent (com.gbwp): <a href="http://www.mediafire.com/file/o1q6snqmsezewbk/GbWA_wpplus2019.com_Prime+v6.68.apk" target="_blank" rel="nofollow">.Apk Download</a><br>
+WhatsApp Plus Princess MOD (com.lvwhatsapp): <a href="http://www.mediafire.com/file/ndobu9dbv3kdg1j/MODpr-wpplus2019.com.apk" target="_blank" rel="nofollow">.Apk Download</a><br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
