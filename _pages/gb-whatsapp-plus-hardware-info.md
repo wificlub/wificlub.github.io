@@ -5,8 +5,7 @@ permalink: /gb-whatsapp-plus-hardware-info/
 ---
 How to select the correct application based on the processor type? Hardware info GB WhatsApp Plus APK.<br>
 
-<center>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 336 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:336px;height:280px"
@@ -21,8 +20,8 @@ Follow the steps below to familiarize yourself with the architecture of your pho
 3. Check the required places as in the picture and download WP according to your device.<br>
 4. Download WhatsApp Plus 2019 now according to your device: <a href="https://wpplus2019.com/whatsapp-plus-2019-download/">WhatsApp Plus APK Download Page</a><br>
 <img src="https://wpplus2019.com/Hardware.jpg" alt="hardware whatsapp plus 2019" title="hardware info" /><br />
-</center>
-<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
@@ -30,6 +29,6 @@ Follow the steps below to familiarize yourself with the architecture of your pho
      data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
+</script>
 
 
