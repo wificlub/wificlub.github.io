@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hardware Info - GB WhatsApp Plus 2019 
-permalink: /whatsapp-plus-2019-download/
+permalink: /gb-whatsapp-plus-hardware-info/
 ---
 How to select the correct application based on the processor type? Hardware info GB WhatsApp Plus APK.<br>
 
