@@ -56,7 +56,7 @@ permalink: /whatsapp-plus-2019-download/
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-<a href="http://www.mediafire.com/file/o1q6snqmsezewbk/GbWA_wpplus2019.com_Prime+v6.68.apk" target="_blank" rel="nofollow">.APK Download (32MB)</a>
+<a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_armeabi-v7a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download (32MB)</a>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
