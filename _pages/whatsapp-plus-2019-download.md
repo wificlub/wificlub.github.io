@@ -56,9 +56,8 @@ permalink: /whatsapp-plus-2019-download/
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-WP Plus (armeabi-v7a): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_armeabi-v7a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download</a><br>
-WP Plus (arm64-V8a): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_arm64-v8a@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download</a><br>
-WP Plus (x86_64): <a href="https://abo2sadam.net/UP/v6.65/WA-v6.65_x86_64@Abo2Sadam.apk" target="_blank" rel="nofollow">.APK Download</a>
+WhatsApp Plus 2019: <a href="https://uploadfiles.io/83hejrvt" target="_blank" rel="nofollow">.APK Download</a><br>
+
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
