@@ -56,7 +56,7 @@ permalink: /whatsapp-plus-2019-download/
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-WhatsApp Plus 22.07.2019 (armeabi-v7a): <a href="https://bit.ly/2Z6wv2W" target="_blank" rel="nofollow">.APK Download</a><br>
+WhatsApp Plus 22.07.2019 (armeabi-v7a): <a href="https://bit.ly/2LAEF0i" target="_blank" rel="nofollow">.APK Download</a><br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
@@ -108,8 +108,8 @@ The program is downloaded in seconds; it is also installed without any problems 
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
-Download (arm64-v8a): <a href="https://bit.ly/2OlkV2O" target="_blank" rel="nofollow">.Apk Download</a><br>
-Download (x86): <a href="https://bit.ly/2GpsvTK" target="_blank" rel="nofollow">.Apk Download</a><br>
+Download (arm64-v8a): <a href="https://bit.ly/30ORR5c" target="_blank" rel="nofollow">.Apk Download</a><br>
+Download (x86): <a href="https://bit.ly/2OciK1x" target="_blank" rel="nofollow">.Apk Download</a><br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
@@ -120,5 +120,4 @@ Download (x86): <a href="https://bit.ly/2GpsvTK" target="_blank" rel="nofollow">
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
 </center>
-<img src="https://wpplus2019.com/gb-transparent.jpg" width="512" height="512" alt="gb wp 2019" title="gb 2019" /><br>
 We also shared the mod of WhatsApp Plus. This mode was released as of 22.07.2019. Many new features and brand new themes with this mode we have shared with you. If you like our site you can share it with your friends via share buttons below.
