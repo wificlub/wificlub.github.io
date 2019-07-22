@@ -57,7 +57,7 @@ permalink: /whatsapp-plus-2019-download/
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script><br>
 WhatsApp Plus 22.07.2019 (armeabi-v7a): <a href="https://bit.ly/2LAEF0i" target="_blank" rel="nofollow">.APK Download</a><br>
-     Please before install WhatsApp Plus (GBWP), take backup - uninstall V6.95 - install 7.00<br>
+     22.07.2019: Please before install WhatsApp Plus (GBWP), take backup - uninstall V6.95 - install 7.00<br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 2018 -->
 <ins class="adsbygoogle"
